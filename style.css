@@ -10,6 +10,9 @@ body {
   font-family: "Sono", sans-serif;
   padding: 48px 64px;
 }
+.hidden {
+  display: none;
+}
 
 /* 主要布局 */
 .container {
