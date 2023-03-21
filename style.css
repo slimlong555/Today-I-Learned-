@@ -11,7 +11,7 @@ body {
   padding: 48px 64px;
 }
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 /* 主要布局 */
